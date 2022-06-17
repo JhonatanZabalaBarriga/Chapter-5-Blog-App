@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-nwp(zy=@&(*iw*eq$t7oc_sd6ciblas(%#+knnp=(p-t@0=r^t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
